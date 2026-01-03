@@ -1,8 +1,3 @@
-/*******************************************************************************
- * Name        : minishell.c
- * Author      : Sutej Upadhyaya
- * Pledge      : I pledge my honor that I have abided by the Stevens Honor System.
- ******************************************************************************/
 
 #define BLUE "\x1b[34;1m"
 #define DEFAULT "\x1b[0m"
